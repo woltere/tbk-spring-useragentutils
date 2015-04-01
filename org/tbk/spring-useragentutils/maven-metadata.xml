@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.tbk</groupId>
+  <artifactId>spring-useragentutils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150401201545</lastUpdated>
+  </versioning>
+</metadata>
